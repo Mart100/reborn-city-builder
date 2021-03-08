@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+		"removeComments": true,
+    "sourceMap": true,
+		"outDir": "./dist",
+		"strict": true,
+	},
+	"include": [
+		"src/scripts/*.ts"
+	]
+}
